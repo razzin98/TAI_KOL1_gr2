@@ -12,3 +12,8 @@ body {
     height: 20px;
     background-color: green;
 }
+table, th, td {
+    border: 1px solid black;
+    width: 20%;
+    height: 50px;
+}
